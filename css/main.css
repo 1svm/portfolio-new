@@ -734,12 +734,6 @@ blockquote {
   z-index: 0;
 }
 
-.my-photo img {
-  height: 80px;
-  max-height: 80px;
-  width: 80px;
-}
-
 .site-title-block {
   position: relative;
   z-index: 1;
