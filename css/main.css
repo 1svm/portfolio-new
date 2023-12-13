@@ -1183,11 +1183,13 @@ blockquote {
 }
 
 .skills-info.skills-second-style h4 {
+  display: inline-block;
   font-size: 13px;
   line-height: 1.1em;
-  position: relative;
-  float: left;
-  margin: 0 0 4px;
+  background-color: #0099e5;
+  color: #ffffff;
+  padding: 10px;
+  margin-right: 5px;
 }
 
 .skills-second-style .skill-value {
